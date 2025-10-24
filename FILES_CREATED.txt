@@ -1,0 +1,15 @@
+# Files Created During Deployment Setup
+
+## Configuration Files
+1. apps/web/vercel.json - Vercel deployment configuration
+2. DEPLOYMENT_GUIDE.md - Complete deployment guide
+
+## Theme Files (Build Requirements)
+3. packages/theme/src/theme-engine/themes/default-light.json
+4. packages/theme/src/theme-engine/themes/default-dark.json
+
+## Build Artifacts
+5. apps/web/build/ - Complete web app build (23 MB, 447 files)
+6. apps/desktop/build/ - Electron wrapper (1.9 MB)
+
+All files are committed and pushed to branch: claude/prepare-deployment-011CURRPBErZrXjK6tWB5Avt
